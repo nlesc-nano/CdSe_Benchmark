@@ -1,10 +1,16 @@
-# CdSe Benchmark
-
+# <img src="benchmarking.png" alt="Benchmarking Logo" height="45" align="absmiddle"> <img src="cdsecl-benchmark-title.png" alt="CdSeCl Benchmark Title" height="45" align="absmiddle">
 Data and trained models accompanying the paper:
 
 **"Benchmarking Machine-Learning Interatomic Potentials for Dynamical Stability in Inorganic Semiconductor Nanocrystals: A CdSe Case Study"**
 
 Muhammed Usman, Masuma Suleymanova, Zain Ul Abideen, Mario Fernández-Pendás, and Ivan Infante — *Machine Learning: Science and Technology* (2026)
+
+
+<p align="center">
+  <img src="cdsecl-benchmark.png"
+       alt="CdSeCl Benchmark: graph neural network interatomic potentials"
+       width="90%">
+</p>
 
 ## Overview
 
