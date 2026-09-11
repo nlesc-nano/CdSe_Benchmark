@@ -63,7 +63,7 @@ Each frame includes: **atom species, Cartesian positions (Å), atomic forces (eV
 @article{usman2026benchmarking,
   title={Benchmarking Machine-Learning Interatomic Potentials for Dynamical Stability in Inorganic Semiconductor Nanocrystals: A CdSe Case Study},
   author={Muhammed Usman and Masuma Suleymanova and Zain Ul Abideen and Mario Fernández-Pendás and Ivan Infante},
-  journal={Machine Learning: Science and Technology},
+  journal={},
   year={2026}
 }
 ```
