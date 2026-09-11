@@ -3,7 +3,7 @@ Data and trained models accompanying the paper:
 
 **"Benchmarking Machine-Learning Interatomic Potentials for Dynamical Stability in Inorganic Semiconductor Nanocrystals: A CdSe Case Study"**
 
-Muhammed Usman, Masuma Suleymanova, Zain Ul Abideen, Mario Fernández-Pendás, and Ivan Infante — *Machine Learning: Science and Technology* (2026)
+Muhammed Usman, Masuma Suleymanova, Zain Ul Abideen, Mario Fernández-Pendás, and Ivan Infante — 
 
 
 <p align="center">
